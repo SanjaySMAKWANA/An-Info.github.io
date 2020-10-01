@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+}
+.header
+{
+    height:100vh;
+}
+.navbar-style
+{
+    box-shadow: 0 5px 10px #efefef;
+}
+.logo
+{    
+    height: 80px;
+    padding: 2px 10px ;
+}
+.icon-bar
+{background: rgb(5, 36, 209);
+
+}
+.big-text
+{
+    font-size: 51px;
+    margin: 20px 0;
+    color: darkblue;
+}
+a.btn
+{
+    margin: 30px ;
+    width:150px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+
+a.btn-first
+{background:transparent;
+    background-color:darkblue  ;
+    
+    color:whitesmoke;
+}
+a.btn-second
+{
+    background:transparent;
+    background-color:darkblue ;
+    color:white;
+}
+a.btn-third
+{
+    background:transparent;
+    background-color:darkblue ;
+    color:white;
+}
+a.btn:hover{
+    background: green;
+      border: none;
+      color:white;
+      box-shadow: 5px 5px 10px #999;
+      transition: 0.3s;
+}
+.banner-info
+{
+    margin:30px 0;
+
+}
